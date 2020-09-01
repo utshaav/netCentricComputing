@@ -1,5 +1,9 @@
 # netCentricComputing - C# Basics
 
+\*Download the PDF [HERE](https://github.com/utshaav025/netCentricComputing/raw/master/README.pdf)
+
+## SNIPPIT
+
 ## Terminal Codes
 
 - dotnet new console -n NameOfTheProject
